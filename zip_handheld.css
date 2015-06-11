@@ -1,0 +1,79 @@
+p
+{
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1
+{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2
+{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h3
+{
+    font-family: sans-serif;
+    text-align: left;
+}
+
+h4
+{
+    font-family: sans-serif;
+    text-align: left;
+}
+
+li
+{
+    font-family: sans-serif;
+    /*text-align: left;*/
+}
+
+img.portrait
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /*border: 2px solid #444444;*/
+}
+
+img.logo
+{
+    display: block;
+    float: left;
+    margin: 2%;
+    padding: 2%;
+}
+
+.centered
+{
+    position: relative;
+    background: url(serpent_right.png) right bottom no-repeat;
+    background-position: 95% 10%;
+
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    
+    width: 90%;
+    height: 50%;
+    
+    margin: auto;
+    
+    background-color: #DDEEEE;
+    color: #444444;
+
+    padding: 1%;
+    /* border: 3px solid #444444; */
+
+    /* Automatic pretty borders with Mozilla and Safari */
+    -moz-border-radius: 16px;
+    -webkit-border-radius: 16px;
+    border-radius: 16px;
+} 
