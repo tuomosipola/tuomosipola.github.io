@@ -90,7 +90,7 @@ hr {
     /*background: url(serpent_right.png) left bottom no-repeat;
     background-position: 95% 10%;*/
 
-    font-size: medium;
+    font-size: large;
 
     top: 0;
     right: 0;
@@ -107,7 +107,7 @@ hr {
     /*background-color: #EEEEEE;*/
     color: #333333;
 
-    padding: 2%;
+    padding: 5%;
     /* border: 3px solid #444444; */
 
     /* Automatic pretty borders with Mozilla and Safari
