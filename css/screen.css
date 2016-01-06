@@ -84,12 +84,13 @@ hr {
     /*display: table-cell;*/
 }
 
-@media (min-width: 700px) and (orientation: landscape) {
 .centered
 {
     position: relative;
     /*background: url(serpent_right.png) left bottom no-repeat;
     background-position: 95% 10%;*/
+
+    font-size: medium;
 
     top: 30px;
     right: 0;
@@ -108,44 +109,9 @@ hr {
     padding: 2%;
     /* border: 3px solid #444444; */
 
-    /* Automatic pretty borders with Mozilla and Safari */
+    /* Automatic pretty borders with Mozilla and Safari
     -moz-border-radius: 16px;
     -webkit-border-radius: 16px;
-    border-radius: 16px;
-}
-}
-@media handheld or (max-width: 700px) {
-body
-{
-    font-size: 200%;
-}
-.centered
-{
-    position: relative;
-    /*background: url(serpent_right.png) left bottom no-repeat;
-    background-position: 95% 10%;*/
-
-    top: 10%;
-    right: 0;
-    bottom: 0;
-    left: 0;
-
-    width: 80%;
-    min-width: 280px;
-    height: 50%;
-
-    margin: auto;
-
-    /*background-color: #EEEEEE;*/
-    color: #333333;
-
-    padding: 2%;
-    /* border: 3px solid #444444; */
-
-    /* Automatic pretty borders with Mozilla and Safari */
-    -moz-border-radius: 16px;
-    -webkit-border-radius: 16px;
-    border-radius: 16px;
-}
+    border-radius: 16px; */
 }
 
