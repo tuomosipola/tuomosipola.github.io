@@ -114,7 +114,7 @@ hr {
     border-radius: 16px;
 }
 }
-@media (max-width: 700px) {
+@media handheld or (max-width: 700px) {
 .centered
 {
     position: relative;
