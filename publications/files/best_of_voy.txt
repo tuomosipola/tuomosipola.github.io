@@ -54,7 +54,7 @@ This was much easier with TNG. I had to add a three-star review column.
 (S02E26 Basics, Part I)			*	Kazon, Seska, Suder
 
  S03
-(S03E01 Basics, Part II)		*	Kazon, Seska, Suder, Wildman
+(S03E01 Basics, Part II)		**	Kazon, Seska, Suder, Wildman
 (S03E02 Flashback)			*	Tuvok, Janeway, Holodeck, TOS
 (S03E03 The Chute)			*	Paris, Kim, Prison
 (S03E04 The Swarm)			**	Doctor, Technobabble
@@ -92,8 +92,8 @@ This was much easier with TNG. I had to add a three-star review column.
 (S04E15 Hunters)			**	Hirogen, Starfleet
  S04E16 Prey				***	Hirogen, 8472, Seven, Janeway
 (S04E17 Retrospect)			**	Seven
-(S04E18 The Killing Game, Part I)	*	Hirogen, Holodeck, Nazis
-(S04E19 The Killing Game, Part II)	*	Hirogen, Holodeck, Nazis
+(S04E18 The Killing Game, Part I)	**	Hirogen, Holodeck, Nazis
+(S04E19 The Killing Game, Part II)	**	Hirogen, Holodeck, Nazis
 (S04E20 Vis à Vis)			*	Body Switch, Paris
 (S04E21 The Omega Directive)		*	Starfleet, Janeway
  S04E23 Living Witness			***	Doctor, Future
@@ -165,7 +165,7 @@ This was much easier with TNG. I had to add a three-star review column.
  S07E11 Shattered			***	Chakotay, Janeway, Seska, Proton, Time Paradox, Wildman
  S07E12 Lineage				***	Torres, Pregnancy, Klingon
 (S07E14 Prophecy)			*	Klingon, Torres
-(S07E15 The Void)			*	Janeway, Starfleet, Classic Scifi
+(S07E15 The Void)			**	Janeway, Starfleet, Classic Scifi
  S07E16 Workforce, Part I		***	Amnesia
  S07E17 Workforce, Part II		***	Chakotay, Kim, Doctor
  S07E18 Human Error			***	Seven, Holodeck, Romance
