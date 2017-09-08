@@ -75,7 +75,7 @@ This was much easier with TNG. I had to add a three-star review column.
 (S03E22 Real Life)			**	Doctor, Holodeck
  S03E23 Distant Origin			***	Dinosaurs
 (S03E25 Worst Case Scenario)		**	Maquis, Seska
- S03E26 Scorpion, Part I		***	Borg, 8472
+ S03E26 Scorpion, Part I		***	Borg, 8472, da Vinci
 
  S04
  S04E01 Scorpion, Part II		***	Borg, 8472, Janeway, Seven
@@ -83,7 +83,7 @@ This was much easier with TNG. I had to add a three-star review column.
 (S04E03 Day of Honor)			*	Paris, Torres, Seven, Vorik
 (S04E04 Nemesis)			*	Chakotay, Classic Scifi
 (S04E05 Revulsion)			**	Doctor, Kim, Seven
-(S04E06 The Raven)			*	Seven, Janeway
+(S04E06 The Raven)			*	Seven, Janeway, da Vinci
  S04E08 Year of Hell, Part I		***	Time Paradox
  S04E09 Year of Hell, Part II		***	Time Paradox, Chakotay, Paris
 (S04E11 Concerning Flight)		*	Holodeck, Janeway, da Vinci
@@ -95,7 +95,7 @@ This was much easier with TNG. I had to add a three-star review column.
 (S04E18 The Killing Game, Part I)	**	Hirogen, Holodeck, Nazis
 (S04E19 The Killing Game, Part II)	**	Hirogen, Holodeck, Nazis
 (S04E20 Vis à Vis)			*	Body Switch, Paris
-(S04E21 The Omega Directive)		*	Starfleet, Janeway
+(S04E21 The Omega Directive)		*	Starfleet, Janeway, da Vinci
  S04E23 Living Witness			***	Doctor, Future
 (S04E24 Demon)				*	Duplicate, Vorik
 (S04E25 One)				**	Seven
