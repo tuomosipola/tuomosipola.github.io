@@ -81,11 +81,12 @@ This was much easier with TNG. I had to add a three-star review column.
  S04E01 Scorpion, Part II		***	Borg, 8472, Janeway, Seven
 (S04E02 The Gift)			*	Kes, Seven
 (S04E03 Day of Honor)			*	Paris, Torres, Seven, Vorik
-(S04E04 Nemesis)			*	Chakotay, Classic Scifi
+(S04E04 Nemesis)			*	Chakotay, War, Classic Scifi
 (S04E05 Revulsion)			**	Doctor, Kim, Seven
 (S04E06 The Raven)			*	Seven, Janeway, da Vinci
  S04E08 Year of Hell, Part I		***	Time Paradox
  S04E09 Year of Hell, Part II		***	Time Paradox, Chakotay, Paris
+(S04E10 Random Thoughts			*	Torres, Classic Scifi
 (S04E11 Concerning Flight)		*	Holodeck, Janeway, da Vinci
 (S04E12 Mortal Coil)			*	Neelix, Seven, Classic Scifi, Wildman
  S04E14 Message in a Bottle		***	Doctor, Starfleet, Romulan, Hirogen
@@ -164,6 +165,7 @@ This was much easier with TNG. I had to add a three-star review column.
 (S07E10 Flesh and Blood (cont'd))	*	Hirogen, Holodeck, Doctor
  S07E11 Shattered			***	Chakotay, Janeway, Seska, Proton, Time Paradox, Wildman
  S07E12 Lineage				***	Torres, Pregnancy, Klingon
+(S07E13 Repentance			*	Classic Scifi, Prisoners
 (S07E14 Prophecy)			*	Klingon, Torres
 (S07E15 The Void)			**	Janeway, Starfleet, Classic Scifi
  S07E16 Workforce, Part I		***	Amnesia
