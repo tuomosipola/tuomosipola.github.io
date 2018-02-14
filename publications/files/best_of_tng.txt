@@ -18,6 +18,7 @@ The tags show the different arcs and episode moods, and may contain spoilers.
 (S01E01 Encounter at Farpoint (cont'd))		Classic Scifi, Q, Picard
 (S01E03 The Naked Now)				Classic Scifi, Romance, Data
 (S01E10 Hide and Q)				Q, Riker
+(S01E12 The Big Goodbye)			Picard, Data, Holodeck
 (S01E13 Datalore)				Data, Lore
 (S01E15 11001001)				Holodeck, Riker
 (S01E24 We'll Always Have Paris)		Picard, Romance, Time Paradox
