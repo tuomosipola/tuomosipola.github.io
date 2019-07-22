@@ -104,7 +104,7 @@ hr {
     bottom: 0;
     left: 0;
 
-    width: 30%;
+    max-width: 30%;
     min-width: 480px;
     height: 100%;
 
