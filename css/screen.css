@@ -1,7 +1,7 @@
 p
 {
     font-family: 'Roboto', sans-serif;
-    font-size: 1.2em;
+    font-size: 100%;
     line-height: 1.5;
     text-align: left;
 }
@@ -20,14 +20,14 @@ a
 h1
 {
     font-family: 'Lora', serif;
-    font-size: 2.0em;
+    font-size: 200%;
     text-align: center;
 }
 
 h2
 {
     font-family: 'Lora', serif;
-    font-size: 1.5em;
+    font-size: 150%;
     text-align: left;
     padding-top: 2%;
 }
@@ -35,14 +35,14 @@ h2
 h3
 {
     font-family: 'Lora', serif;
-    font-size: 1.4em;
+    font-size: 120%;
     text-align: left;
 }
 
 h4
 {
     font-family: 'Lora', serif;
-    font-size: 1.2em;
+    font-size: 100%;
     text-align: left;
 }
 
@@ -91,13 +91,46 @@ hr {
     /*display: table-cell;*/
 }
 
+/* Small screens */
+@media screen and (max-width: 600px) {
+
 .centered
 {
     position: relative;
     /*background: url(serpent_right.png) left bottom no-repeat;
     background-position: 95% 10%;*/
 
-    font-size: medium;
+    font-size: large;
+
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    width: 80vw;
+
+    margin: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+
+    color: #333333;
+
+    padding: 2%;
+}
+
+}
+
+
+/* Good screens */
+@media screen and (min-width: 601px) {
+
+.centered
+{
+    position: relative;
+    /*background: url(serpent_right.png) left bottom no-repeat;
+    background-position: 95% 10%;*/
+
+    font-size: large;
 
     top: 0;
     right: 0;
@@ -105,7 +138,7 @@ hr {
     left: 0;
 
     max-width: 30%;
-    min-width: 480px;
+    min-width: 600px;
     height: 100%;
 
     margin: auto;
@@ -120,5 +153,7 @@ hr {
     -moz-border-radius: 16px;
     -webkit-border-radius: 16px;
     border-radius: 16px; */
+}
+
 }
 
