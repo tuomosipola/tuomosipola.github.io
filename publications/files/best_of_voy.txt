@@ -130,7 +130,7 @@ This was much easier with TNG. I had to add a three-star review column.
  S06
  S06E01 Equinox, Part II		***	Starfleet, Janeway, Wildman
 (S06E02 Survival Instinct)		*	Borg, Seven, Wildman
- S06E03 Barge of the Dead		***	Torres, Klingon
+(S06E03 Barge of the Dead)		**	Torres, Klingon
  S06E04 Tinker Tenor Doctor Spy		***	Doctor
 (S06E06 Riddles)			*	Tuvok, Vulcan, Neelix
 (S06E08 One Small Step)			*	Classic Scifi, Time Paradox
@@ -179,5 +179,5 @@ This was much easier with TNG. I had to add a three-star review column.
  S07E25 Endgame				***	Janeway, Borg, Klingon, Time Paradox, Barclay
  S07E26 Endgame (cont'd)		***	Janeway, Borg, Klingon, Time Paradox
 
-2017-12-04
+2019-10-13
 
