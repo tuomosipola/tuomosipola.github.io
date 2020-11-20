@@ -20,23 +20,21 @@ p.gpgkey
 a
 {
     text-decoration: none;
-    color: #666666;
+    color: #222288;
 }
 
 h1
 {
     font-family: 'Lora', serif;
-    font-size: 200%;
+    font-size: 180%;
     text-align: center;
 }
 
 h2
 {
     font-family: 'Lora', serif;
-    font-size: 150%;
+    font-size: 140%;
     text-align: left;
-    padding-top: 2%;
-    margin-bottom: -2%;
 }
 
 h3
@@ -120,7 +118,7 @@ hr {
     margin-left: 5%;
     margin-right: 5%;
 
-    color: #333333;
+    color: #222222;
 
     padding: 2%;
 }
@@ -151,7 +149,7 @@ hr {
     margin: auto;
 
     /*background-color: #EEEEEE;*/
-    color: #333333;
+    color: #222222;
 
     padding: 2%;
     /* border: 3px solid #444444; */
