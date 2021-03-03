@@ -5,8 +5,8 @@
     font-weight: 400;
     font-display: swap;
     src: local(''),
-       url('/fonts/lora-v17-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('/fonts/lora-v17-latin-ext_latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/lora-v17-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/lora-v17-latin-ext_latin-regular.woff') format('woff'), /* Modern Browsers */
 }
 
 /* lora-italic - latin-ext_latin */
@@ -16,8 +16,8 @@
     font-weight: 400;
     font-display: swap;
     src: local(''),
-       url('/fonts/lora-v17-latin-ext_latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
-       url('/fonts/lora-v17-latin-ext_latin-italic.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/lora-v17-latin-ext_latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/lora-v17-latin-ext_latin-italic.woff') format('woff'), /* Modern Browsers */
 }
 
 /* roboto-regular - latin-ext_latin_greek-ext_greek */
@@ -27,8 +27,8 @@
     font-weight: 400;
     font-display: swap;
     src: local(''),
-       url('/fonts/roboto-v20-latin-ext_latin_greek-ext_greek-regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('/fonts/roboto-v20-latin-ext_latin_greek-ext_greek-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/roboto-v20-latin-ext_latin_greek-ext_greek-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/roboto-v20-latin-ext_latin_greek-ext_greek-regular.woff') format('woff'), /* Modern Browsers */
 }
 
 /* roboto-italic - latin-ext_latin_greek-ext_greek */
@@ -38,8 +38,8 @@
     font-weight: 400;
     font-display: swap;
     src: local(''),
-       url('/fonts/roboto-v20-latin-ext_latin_greek-ext_greek-italic.woff2') format('woff2'), /* Super Modern Browsers */
-       url('/fonts/roboto-v20-latin-ext_latin_greek-ext_greek-italic.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/roboto-v20-latin-ext_latin_greek-ext_greek-italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/roboto-v20-latin-ext_latin_greek-ext_greek-italic.woff') format('woff'), /* Modern Browsers */
 }
 
 p
